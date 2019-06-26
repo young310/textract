@@ -7,7 +7,7 @@
 
 textract
 ========
-
+add by Elvis (fixed the problem a1.h not found while setting up on MacOS)
 Extract text from any document. No muss. No fuss.
 
 `Full documentation <http://textract.readthedocs.org>`__.
